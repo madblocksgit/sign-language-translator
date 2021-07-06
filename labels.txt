@@ -1,0 +1,6 @@
+0 empty - gesture1
+1 like - gesture2
+2 dislike - gesture3
+3 hand - gesture4
+4 super - gesture5
+5 doubt - gesture6
